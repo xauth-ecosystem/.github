@@ -19,10 +19,7 @@ We develop and maintain an integrated suite of open-source plugins and tools tha
 - [**CaptchaLogin**](https://github.com/xauth-ecosystem/CaptchaLogin)  
   Adds an extra layer of verification using CAPTCHA challenges to prevent automated attacks and enhance account security.
 
-### Account Binding & Integration
-- [**BindingManager**](https://github.com/newlandpe/BindingManager)  
-  Multi-platform account binding system. Started in 2021 with VKontakte integration via RCON, now supports Telegram and provides a flexible API for extending to other platforms.
-
+### Identity Federation
 - [**XAuthConnect**](https://github.com/xauth-ecosystem/XAuthConnect)  
   OAuth2 server with OpenID Connect implementation that runs directly on your game server. Enables server owners to connect custom platforms and services with player accounts through industry-standard authentication protocols.
 
