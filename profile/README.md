@@ -1,4 +1,6 @@
-![XAuth Ecosystem Banner](https://github.com/xauth-ecosystem/.github/blob/main/assets/banner.png)
+<p align="center">
+  <img src="https://github.com/xauth-ecosystem/.github/blob/main/assets/banner.png" alt="XAuth Ecosystem Banner" width="900">
+</p>
 
 # XAuth Ecosystem Resources
 
