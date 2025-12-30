@@ -23,8 +23,8 @@ We develop and maintain an integrated suite of open-source plugins and tools tha
   OAuth2 server with OpenID Connect implementation that runs directly on your game server. Enables server owners to connect custom platforms and services with player accounts through industry-standard authentication protocols.
 
 ### Supporting Tools & Libraries
-- [**League**](https://github.com/xauth-ecosystem/oauth2-xauthconnect)  
-  Core library powering the OAuth2/OpenID Connect functionality in XAuthConnect.
+- [**League OAuth2 Integration**](https://github.com/xauth-ecosystem/oauth2-xauthconnect)  
+  Custom OAuth2 client library built on top of [thephpleague/oauth2-client](https://github.com/thephpleague/oauth2-client), designed specifically for integrating with XAuthConnect's OAuth2 server.
 
 - [**Demo Client**](https://github.com/xauth-ecosystem/xauthconnect-php-demo-client)  
   Reference implementation showcasing how to integrate with XAuthConnect using the League library.
