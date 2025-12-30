@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/banner.png" alt="XAuth Ecosystem Banner" width="900">
+  <img src="https://github.com/xauth-ecosystem/.github/blob/main/assets/banner.png" alt="XAuth Ecosystem Banner" width="900">
 </p>
 
 # XAuth Ecosystem Resources
