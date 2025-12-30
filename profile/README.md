@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/xauth-ecosystem/.github/blob/main/assets/banner.png" alt="XAuth Ecosystem Banner" width="900">
-</p>
+![XAuth Ecosystem Banner]([https://github.com/diia-open-source/.github/blob/main/profile/header%20profile.png](https://github.com/xauth-ecosystem/.github/blob/main/assets/banner.png))
 
 # XAuth Ecosystem Resources
 
