@@ -48,28 +48,6 @@ We develop and maintain an integrated suite of open-source plugins and tools tha
 
 ---
 
-## Architecture Overview
-
-The XAuth Ecosystem consists of three layers:
-
-1. **Core Authentication** — XAuth plugin manages player login and session security
-2. **Enhanced Security** — CaptchaLogin and BindingManager add verification and platform linking
-3. **Federation Layer** — XAuthConnect enables OAuth2/OpenID Connect for third-party integrations
-
-This modular approach allows you to use components independently or combine them for comprehensive identity management.
-
----
-
-## Getting Started
-
-Each repository contains detailed installation instructions and documentation. For a typical setup:
-
-1. Install **XAuth** as your base authentication system
-2. Add **CaptchaLogin** or **BindingManager** for enhanced security
-3. Deploy **XAuthConnect** if you need OAuth2 integration with external services
-
----
-
 ## Contributing
 
 We welcome contributions from developers and server administrators!  
