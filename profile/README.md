@@ -59,7 +59,7 @@ Please explore our repositories, open issues, or submit pull requests.
 
 ## Support & Contact
 
-For questions, feature requests, or technical support, please use GitHub Issues in the relevant repository or reach out through the contacts listed in each project.
+For questions, feature requests, or technical support, please use GitHub Issues in the relevant repository, reach out through the contacts listed in each project, or email us directly at [hello@fyennyi.pp.ua](mailto:hello@fyennyi.pp.ua).
 
 ---
 
