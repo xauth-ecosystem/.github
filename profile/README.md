@@ -40,11 +40,11 @@ We develop and maintain an integrated suite of open-source plugins and tools tha
 
 ## Our Mission
 
-- **Security First:** Protect player accounts through modern authentication standards and multi-factor verification
-- **Seamless Integration:** Bridge Minecraft servers with external platforms via OAuth2 and custom bindings
-- **Extensibility:** Provide flexible APIs and libraries for developers to build upon
-- **Open Standards:** Implement industry-standard protocols like OAuth2 and OpenID Connect
-- **Community-Driven:** Share tools and knowledge to empower server owners worldwide
+- **Security First:** Protect player accounts through modern authentication standards and multi-factor verification.
+- **Seamless Integration:** Bridge Minecraft servers with external platforms via OAuth2 and custom bindings.
+- **Extensibility:** Provide flexible APIs and libraries for developers to build upon.
+- **Open Standards:** Implement industry-standard protocols like OAuth2 and OpenID Connect.
+- **Community-Driven:** Share tools and knowledge to empower server owners worldwide.
 
 ---
 
