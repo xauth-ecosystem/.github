@@ -4,7 +4,7 @@
 
 # XAuth Ecosystem Resources
 
-Welcome to the official GitHub organization for **XAuth Ecosystem** — a comprehensive authentication and identity management solution for Minecraft: Bedrock Edition servers, evolving since 2021.
+Welcome to the official GitHub organization for **XAuth Ecosystem** — a comprehensive authentication and identity management solution for Minecraft: Bedrock Edition servers, evolving since 2025.
 
 We develop and maintain an integrated suite of open-source plugins and tools that provide robust authentication, multi-platform account binding, and OAuth2-based identity federation for server owners and players.
 
