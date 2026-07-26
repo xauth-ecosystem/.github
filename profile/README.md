@@ -63,4 +63,4 @@ For questions, feature requests, or technical support, please use GitHub Issues 
 
 ---
 
-*Building secure, connected experiences for Minecraft: Bedrock Edition since 2021.*
+*Building secure, connected experiences for Minecraft: Bedrock Edition since 2025.*
